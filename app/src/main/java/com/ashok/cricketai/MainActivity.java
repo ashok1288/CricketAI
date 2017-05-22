@@ -53,7 +53,7 @@ public class MainActivity extends Activity {
 
         mProgressDlg 		= new ProgressDialog(this);
 
-        mProgressDlg.setMessage("Scanning...");
+        mProgressDlg.setMessage("Scanning...Ashok");
         mProgressDlg.setCancelable(false);
         mProgressDlg.setButton(DialogInterface.BUTTON_NEGATIVE, "Cancel", new DialogInterface.OnClickListener() {
             @Override
