@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
     private TextView mStatusTv;
     private Button mActivateBtn;
     private Button mPairedBtn;
-    private Button mScanBtn;
+    private Button mScanBtn,m;
 
     private ProgressDialog mProgressDlg;
 
